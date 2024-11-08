@@ -1,0 +1,9 @@
+site_name: FastAP-Channels
+site_description: A FastAPI based websocket library - FastAPI-Channels
+site_url: https://fc.bxzdyg.cn
+site_author: BXZDYG
+theme:
+  name: material # mkdocs, readthedocs, material
+  font:
+    text: Merriweather Sans # 字体样式
+    code: Red Hat Mono # Roboto Mono # 代码字体样式
